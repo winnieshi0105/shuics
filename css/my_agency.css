@@ -34,15 +34,15 @@ h4 {
   margin-top: 1.35rem;
 }
 
-header.masthead .intro-text .intro-lead-in {
-	font-family: inherit;
-	}
-
-.btn text {
+.btn {
 	font-family: inherit;
 	}
 	
-.div{
+div.intro-heading {
+	font-family: inherit;
+	}
+	
+div.intro-lead-in{
 	font-family: inherit;
 	}
 	
