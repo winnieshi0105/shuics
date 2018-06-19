@@ -38,14 +38,22 @@ h4 {
 	font-family: inherit;
 	}
 	
-div.intro-heading {
+.div{
 	font-family: inherit;
 	}
 	
-div.intro-lead-in{
+.div.intro-heading {
+	font-family: inherit;
+	}
+	
+.div.intro-lead-in{
 	font-family: inherit;
 	}
 	
 .nav-item .nav-link {
+	font-family: inherit;
+	}
+
+#mainNav .navbar-brand {
 	font-family: inherit;
 	}
