@@ -52,10 +52,10 @@ header.masthead .intro-text .intro-lead-in{
 	color:#fec810;
 	}
 	
-.nav-item .nav-link {
+#mainNav .navbar-nav .nav-item .nav-link{
 	font-family: inherit;
-	}
-
+    }
+	
 #mainNav .navbar-brand{
 	font-family: inherit;
 	}
