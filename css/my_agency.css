@@ -42,11 +42,11 @@ h4 {
 	font-family: inherit;
 	}
 	
-.div.intro-heading {
+header.masthead .intro-text .intro-heading{
 	font-family: inherit;
 	}
 	
-.div.intro-lead-in{
+header.masthead .intro-text .intro-lead-in{
 	font-family: inherit;
 	}
 	
@@ -54,6 +54,6 @@ h4 {
 	font-family: inherit;
 	}
 
-#mainNav .navbar-brand {
+#mainNav .navbar-brand{
 	font-family: inherit;
 	}
