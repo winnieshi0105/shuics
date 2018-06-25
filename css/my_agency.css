@@ -44,10 +44,19 @@ h4 {
 	
 header.masthead .intro-text .intro-heading{
 	font-family: inherit;
+	-webkit-text-stroke: 2px black;
+    color: white;
+	
 	}
 	
 header.masthead .intro-text .intro-lead-in{
 	font-family: inherit;
+	text-shadow:
+	   5px 5px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
 	}
 	
 #mainNav .navbar-nav .nav-item .nav-link{
