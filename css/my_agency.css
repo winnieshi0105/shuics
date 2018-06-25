@@ -57,3 +57,7 @@ header.masthead .intro-text .intro-lead-in{
 #mainNav .navbar-brand{
 	font-family: inherit;
 	}
+
+.card-header {
+    padding:100%;
+}
