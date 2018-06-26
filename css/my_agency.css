@@ -84,7 +84,8 @@ section#work .section-heading{
        1px 1px 0 #000;
 	}
 
-section#work .section-subheading text-muted{
+section h3.section-subheading{
+	color:white;
 	font-family: inherit;
 	text-shadow:
 	   5px 5px 0 #000,
@@ -94,5 +95,6 @@ section#work .section-subheading text-muted{
        1px 1px 0 #000;
 	}
 
-
+video{
+	
 
