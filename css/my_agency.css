@@ -84,5 +84,10 @@ section#work .section-heading{
        1px 1px 0 #000;
 	}
 
+section h3.section-subheading{
+	font-family: inherit;
+	}
 
+video{
+	
 
